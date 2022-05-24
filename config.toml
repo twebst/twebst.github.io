@@ -1,0 +1,4 @@
+baseURL = 'http://tyler-1234.github.io/'
+languageCode = 'en-us'
+title = 'hello, world'
+theme = "PaperMod"
